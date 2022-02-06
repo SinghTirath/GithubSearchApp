@@ -1,0 +1,24 @@
+.user{
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 23px;
+    background-color: white;
+    border: 2px solid #e7e7e7;
+    margin-top: 5px;
+  
+  }
+
+.userLink{
+    text-decoration: none;
+}
+
+.name{
+  font-size: 23px;
+  color: black;
+}
+
+.list-group-item{
+  width: 350px;
+  margin-top: 5px;
+  
+}
